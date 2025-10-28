@@ -36,6 +36,14 @@ Foi desenvolvido um pipeline de dados utilizando Databricks e PySpark, com as se
 - PySpark
 - SQL
 
+📈 Insights do Projeto
+Durante a construção do pipeline de dados, foi possível extrair diversos insights relevantes:
+
+- Efetividade de Cupons: Identificação do valor total de vendas com uso de cupons, útil para avaliar campanhas promocionais.
+- Produtos em Alta: Ranking dos produtos mais vendidos em junho/2020, com base na quantidade e valor total.
+- Abrangência Geográfica: Cidades que aparecem em múltiplos estados, indicando maior presença nacional.
+- Distribuição Regional de Vendas: Análise pivoteada por item vendido, agrupada por cidade e estado, revelando padrões regionais de consumo.
+- Qualidade do Pipeline: Validação da arquitetura em camadas (bronze, silver, gold), garantindo integridade e eficiência na transformação dos dados.
 
  Autor
 **Denilson Nunes do Lago** 
